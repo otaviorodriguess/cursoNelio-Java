@@ -20,6 +20,14 @@ src/
  ├── listexercicio/
  ├── matrizes/
  └── negativos/
+ ├── 
+ ├── 
+ ├── 
+ ├── 
+ ├── 
+ ├── 
+ └── 
+
 ```
 
 Cada pasta representa exercícios ou conceitos específicos estudados durante o curso.
