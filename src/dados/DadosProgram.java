@@ -1,4 +1,4 @@
-package Dados;
+package dados;
 
 import java.util.Locale;
 import java.util.Scanner;

@@ -12,7 +12,7 @@ O foco é evoluir na lógica de programação e na Programação Orientada a Obj
 
 ```
 src/
- ├── Dados/
+ ├── dados/
  ├── datas/
  ├── ExercicioVetores/
  ├── foreach/

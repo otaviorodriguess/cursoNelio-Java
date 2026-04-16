@@ -1,4 +1,4 @@
-package ExercicoVetores;
+package exercicoVetores;
 
 public class Rent {
     private String name ;
