@@ -1,6 +1,6 @@
 # 📚 Curso de Java - Nélio Alves
 
-Este repositório contém minha jornada de aprendizado em Java, baseada no curso do professor Nélio Alves.
+Colocando melhor a minha base em pratica de Java, baseada no curso do professor Nélio Alves.
 
 ## 🚀 Sobre
 
