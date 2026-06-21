@@ -19,7 +19,10 @@ public class ImportedProduct extends Product {
     @Override
     public String priceTag() {
         Object[] customsFee = new Object[0];
-        return getName() + " $ " + String.format("%.2f", totalPrice()) + " (Customs fee: $ " + String.format("%.2f", customsFee) + ")";
+        return getName() + " $ "
+                + String.format("%.2f", totalPrice()) +
+                " (Customs fee: $ " +
+                String.format("%.2f", customsFee) + ")";
     }
 
     private Object[] totalPrice() {
