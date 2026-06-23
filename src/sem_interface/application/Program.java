@@ -7,15 +7,10 @@ bem como o valor por hora e o valor diário de locação.
 O programa deve então gerar a nota de pagamento (contendo valor da locação, valor do imposto e valor total do pagamento) e informar os dados na tela.
 */
 
+package sem_interface.application;
 
-
-
-
-
-package interfaces.application;
-
-import interfaces.model.entities.CarRental;
-import interfaces.model.entities.Vehicle;
+import sem_interface.model.entities.CarRental;
+import sem_interface.model.entities.Vehicle;
 
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;

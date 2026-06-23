@@ -1,4 +1,4 @@
-package interfaces.model.entities;
+package sem_interface.model.entities;
 
 import java.time.LocalDateTime;
 
