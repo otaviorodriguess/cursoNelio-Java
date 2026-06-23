@@ -4,16 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eafceb94-3e1a-4634-af06-e627af2f3bda" name="Changes" comment="" />
+    <list default="true" id="eafceb94-3e1a-4634-af06-e627af2f3bda" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/interfaces/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/model/entities/CarRental.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/model/entities/Invoice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/model/entities/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="39" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -42,6 +54,65 @@
     <commands />
     <urls />
   </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="2.984961615459151E-4" />
+      <entry key="MS500" value="0.197236884262495" />
+      <entry key="S2" value="0.6868436223560207" />
+      <entry key="S5" value="1.0615406136674521" />
+      <entry key="S10" value="1.421884325600692" />
+      <entry key="S30" value="3.3435056785565114" />
+      <entry key="S60" value="8.102446831333175" />
+      <entry key="M2" value="18.34406703705554" />
+      <entry key="M5" value="44.888066919530424" />
+      <entry key="M10" value="72.07857457348993" />
+      <entry key="M15" value="86.97478355689968" />
+      <entry key="M30" value="106.84734214841427" />
+      <entry key="H1" value="119.32147635333455" />
+      <entry key="H2" value="126.35536636349242" />
+      <entry key="H4" value="130.09715674179208" />
+      <entry key="D1" value="133.3379627977778" />
+      <entry key="W1" value="133.90513495748897" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.000002955840801" />
+      <entry key="S2" value="1.0414639224258428" />
+      <entry key="S5" value="1.2808724215786802" />
+      <entry key="S10" value="1.5784752348238418" />
+      <entry key="S30" value="2.647441656753921" />
+      <entry key="S60" value="3.7267814766822727" />
+      <entry key="M2" value="5.011415014579237" />
+      <entry key="M5" value="7.71818061384043" />
+      <entry key="M10" value="10.178227829560617" />
+      <entry key="M15" value="11.42705670848347" />
+      <entry key="M30" value="13.00098580681143" />
+      <entry key="H1" value="13.93991721335378" />
+      <entry key="H2" value="14.453762082016304" />
+      <entry key="H4" value="14.722691764521242" />
+      <entry key="D1" value="14.953187798994003" />
+      <entry key="W1" value="14.993297828259035" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.0011140669396260763" />
+      <entry key="MS500" value="0.2897961716953128" />
+      <entry key="S2" value="1.1759221076939739" />
+      <entry key="S5" value="1.9926268817165262" />
+      <entry key="S10" value="2.7641532452941084" />
+      <entry key="S30" value="5.846643480280381" />
+      <entry key="S60" value="11.706352031975582" />
+      <entry key="M2" value="23.244274338078654" />
+      <entry key="M5" value="52.50828647946829" />
+      <entry key="M10" value="82.18055611842905" />
+      <entry key="M15" value="98.34124531512138" />
+      <entry key="M30" value="119.81165328910228" />
+      <entry key="H1" value="133.24109819621017" />
+      <entry key="H2" value="140.79843645161313" />
+      <entry key="H4" value="144.81435888826388" />
+      <entry key="D1" value="148.2902150372814" />
+      <entry key="W1" value="148.89829862027295" />
+    </decayedShown>
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -63,6 +134,7 @@
     &quot;Application.datas.Program.executor&quot;: &quot;Run&quot;,
     &quot;Application.datas.localparaglobal.Program.executor&quot;: &quot;Run&quot;,
     &quot;Application.enumeracao.aplicattion.Program.executor&quot;: &quot;Run&quot;,
+    &quot;Application.exercicoVetores.Program.executor&quot;: &quot;Run&quot;,
     &quot;Application.foretch.Program.executor&quot;: &quot;Run&quot;,
     &quot;Application.heranca.app.Program.executor&quot;: &quot;Run&quot;,
     &quot;Application.listas.Program.executor&quot;: &quot;Debug&quot;,
@@ -86,11 +158,19 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Program">
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="interfaces.model" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.exercicoVetores.Program">
     <configuration name="DadosProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="dados.DadosProgram" />
       <module name="CursoNelio" />
@@ -130,6 +210,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="exercicoVetores.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercicoVetores.Program" />
+      <module name="CursoNelio" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercicoVetores.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="heranca.app.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="heranca.app.Program" />
       <module name="CursoNelio" />
@@ -143,33 +236,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="stringbuilder.aplicattion.Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stringbuilder.aplicattion.Program" />
+    <configuration name="Unnamed" type="Java Scratch" nameIsGenerated="true">
       <module name="CursoNelio" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="stringbuilder.aplicattion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <shortenClasspath name="NONE" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.exercicoVetores.Program" />
+      <item itemvalue="Application.DadosProgram" />
+      <item itemvalue="Application.heranca.app.Program" />
+      <item itemvalue="Application.Program" />
+      <item itemvalue="Application.Program2" />
+      <item itemvalue="Java Scratch.Unnamed" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.exercicoVetores.Program" />
         <item itemvalue="Application.Program" />
         <item itemvalue="Application.Program2" />
         <item itemvalue="Application.heranca.app.Program" />
         <item itemvalue="Application.DadosProgram" />
-        <item itemvalue="Application.stringbuilder.aplicattion.Program" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.32098.37" />
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.25134.95" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.25134.95" />
       </set>
     </attachedChunks>
   </component>
